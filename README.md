@@ -6,7 +6,7 @@
 
 
 
-![Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanpe49&show_icons=true&theme=cobalt)
+![Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeannfreitas&show_icons=true&theme=cobalt)
 
 ## TECNOLOGIAS
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
