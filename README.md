@@ -1,4 +1,6 @@
-### Olá, eu sou Jean Nascimento.🙋
+ Olá! Me chamo Jean Nascimento e sou um desenvolvedor full stack em formação, atualmente cursando Sistemas de Informação. Este repositório é onde compartilho meus projetos e aprendizados ao longo da minha jornada acadêmica e profissional.
+
+
 ### CONTATOS.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/d_freitas01/)
 
