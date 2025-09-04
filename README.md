@@ -15,8 +15,7 @@
 ---
 
 - 🎓 Estudante de **Sistemas de Informação**  
-- 💻 Foco em **Backend** com Java + Spring Boot  
-- 🛢 Experiência com **bancos de dados relacionais e NoSQL**  
+- 💻 Foco em **Backend** com Java + Spring Boot
 
 ---
 
