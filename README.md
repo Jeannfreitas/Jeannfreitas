@@ -9,7 +9,7 @@
 ## 🚀 Tecnologias & Ferramentas  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,docker,git,github&perline=4" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,docker,git,idea&perline=4" />
 </p>
 
 ---
